@@ -1,11 +1,16 @@
 # CHANGELOG
 
-## 2020-04-10 @ [v4.4.55130.0714](https://github.com/zoom/zoom-sdk-ionic/releases/tag/4.4.55130.0712)
+## 2020-04-10 @ [v4.4.55130.0714](https://github.com/joegarb/zoom-sdk-ionic/releases/tag/4.4.55130.0714)
 
 **Changed & Fixed**
 * Replaced existing ios SDK with zoom-sdk-ios@4.6.15805.0403 for UIWebView removal
 
-## 2019-07-15 @ [v4.4.55130.0712](https://github.com/zoom/zoom-sdk-ionic/releases/tag/4.4.55130.0712)
+## 2020-03-17 @ [v4.4.55130.0713](https://github.com/joegarb/zoom-sdk-ionic/releases/tag/v4.4.55130.0713)
+
+**Changed & Fixed**
+* Enabled audio and video automatically when joining a meeting
+
+## 2019-07-15 @ [v4.4.55130.0712](https://github.com/zoom/zoom-sdk-ionic/releases/tag/v4.4.55130.0712)
 
 **Added**
 
